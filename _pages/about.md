@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Third Year CS PhD student at the Univeristy of Rochester advised by <a href='https://yuhaozhu.com/'>Dr. Yuhao Zhu</a>. I was previously a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India.
+I am a Third Year CS PhD student at the Univeristy of Rochester advised by <a href='https://yuhaozhu.com/'>Dr. Yuhao Zhu</a>. I was previously a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Before that, I was a Research Assistant at CAD Lab, IISc, working with Dr SK Nandy.
 
 My [research interest](/Blog/research_int/Refined_Research Interest.html) lies in Computer Architecture with current emphasis on designing efficient systems for emerging applications like Deep Neural Networks, Genomic Sequencing etc. In my pursuit of getting acquainted with various approaches taken towards hardware accelerators for machine learning workloads, I have reviewed a few articles and have been keeping their short-summaries (reviews) here.
 
