@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Fourth Year CS PhD student at the Univeristy of Rochester advised by <a href='https://yuhaozhu.com/'>Dr. Yuhao Zhu</a>. I was previously a Hardware Engineer working with Samsung Research & Development Institute, Bangalore India. Before that, I was a Research Assistant at <a href='https://cadl.iisc.ernet.in/'>CAD Lab</a>, IISc, working with Prof SK Nandy.
+I am a Fourth Year CS PhD student at the Univeristy of Rochester advised by <a href='https://yuhaozhu.com/'>Dr. Yuhao Zhu</a>. I was previously a Senior Engineer working with Samsung Research & Development Institute, Bangalore India. Before that, I was a Research Assistant at <a href='https://cadl.iisc.ernet.in/'>CAD Lab</a>, IISc, working with Prof SK Nandy.
 
 I am interested in building intelligent, efficient and reliable computing systems inspired by the humans and for the humans. For my research, I would like to combine my interests in understanding the world around us (human brain functioning etc), with my expertise in the area of computer architecture and design applications and systems that helps us understand things we don't. 
 
