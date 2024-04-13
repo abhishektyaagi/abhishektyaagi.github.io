@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected for the [Nengo Summer School 2024](https://www.nengo.ai/summer-school/), at the University of Waterloo. Come say Hi!
+Selected for the [Nengo Summer School 2024](https://www.nengo.ai/summer-school/), at the University of Waterloo. 
