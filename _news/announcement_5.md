@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on Ethos-U55 fault characterization is featured by Arm on Arm Community Blogs: [When Zero Becomes One](https://community.arm.com/arm-research/b/articles/posts/when-zero-becomes-one)
+Our work on Ethos-U55 fault characterization is featured on Arm Community Blogs: [When Zero Becomes One](https://community.arm.com/arm-research/b/articles/posts/when-zero-becomes-one)
