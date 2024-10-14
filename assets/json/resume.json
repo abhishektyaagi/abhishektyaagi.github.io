@@ -1,7 +1,7 @@
 {
-  "basics": {
+  "Personal": {
     "name": "Abhishek Tyagi",
-    "label": "Scientist",
+    "label": "PhD Student",
     "image": "",
     "email": "abhishek.tyagi@rochester.edu",
     "phone": "",
@@ -21,7 +21,7 @@
       "institution": "University of Rochester, NY, USA",
       "url": "https://www.rochester.edu/",
       "area": "Computer Science",
-      "studyType": "PhD",
+      "studyType": "PhD (adivsed by: Dr Yuhao Zhu)",
       "startDate": "Jan'21",
       "endDate": "May'26",
       "score": "",
@@ -88,10 +88,16 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Prime Minister Fellowship",
+      "date": "Aug'13 to May'17",
+      "awarder": "Govt. of India",
+      "summary": "Awarded the fellowship for maintaining outstanding academic performance throughout all four years of my undergraduate studies."
+    },
+    {
+      "title": "Inria Research Scholar",
+      "date": "Jun'16 to Aug'16",
+      "awarder": "Institut national de recherche en sciences et technologies du numérique (Inria)",
+      "summary": "Awarded the fellowship to carry out a summer internship at Inria, Nancy (FR)."
     }
   ],
   "certificates": [],
