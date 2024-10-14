@@ -21,8 +21,8 @@
       "name": "ARM Inc",
       "position": "Research Intern",
       "url": "",
-      "startDate": "May 2022",
-      "endDate": "Dec 2022",
+      "startDate": "May'22",
+      "endDate": "Dec'22",
       "summary": "Worked with the Machine Learning and Architecture Team."
     }
   ],
@@ -34,21 +34,34 @@
     {"name": "Fatima Fellowship",
       "position": "Mentor",
       "url": "https://www.fatimafellowship.com/",
-      "summary": "Mentoring students through the Fatima Fellowship program while working on research projects to gain research experience before applying for grad school"}
+      "summary": "Mentoring students through the Fatima Fellowship program while working on research projects to gain research experience before applying for grad school"},
+    {"name": "University of Rochester",
+      "position": "Graduate Representative",
+      "summary" : "As a grad representative, I served as a bridge between the students and faculties of the department and advocated for the needs of graduate students."
+    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Rochester, NY, USA",
+      "url": "https://www.rochester.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "Jan 2021",
+      "endDate": "May 2026",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Delhi Technological University, Delhi, India",
+      "url": "https://dtu.ac.in/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelors of Technology (B.Tech)",
+      "startDate": "August 2013",
+      "endDate": "May 2017",
+      "score": "",
+      "courses": []
     }
+
   ],
   "awards": [
     {
