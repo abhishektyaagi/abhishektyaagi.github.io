@@ -1,5 +1,5 @@
 {
-  "personal info": {
+  "basics": {
     "name": "Abhishek Tyagi",
     "label": "Scientist",
     "image": "",
@@ -16,6 +16,28 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Rochester, NY, USA",
+      "url": "https://www.rochester.edu/",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "Jan'21",
+      "endDate": "May'26",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Delhi Technological University, Delhi, India",
+      "url": "https://dtu.ac.in/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelors of Technology (B.Tech)",
+      "startDate": "Aug'13",
+      "endDate": "May'17",
+      "score": "",
+      "courses": []
+    }
+  ],
   "work": [
     {
       "name": "ARM Inc",
@@ -63,29 +85,6 @@
       "position": "Graduate Representative",
       "summary" : "As a grad representative, I served as a bridge between the students and faculties of the department and advocated for the needs of graduate students."
     }
-  ],
-  "education": [
-    {
-      "institution": "University of Rochester, NY, USA",
-      "url": "https://www.rochester.edu/",
-      "area": "Computer Science",
-      "studyType": "PhD",
-      "startDate": "Jan'21",
-      "endDate": "May'26",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Delhi Technological University, Delhi, India",
-      "url": "https://dtu.ac.in/",
-      "area": "Electrical Engineering",
-      "studyType": "Bachelors of Technology (B.Tech)",
-      "startDate": "Aug'13",
-      "endDate": "May'17",
-      "score": "",
-      "courses": []
-    }
-
   ],
   "awards": [
     {
