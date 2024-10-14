@@ -1,19 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Abhishek Tyagi",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "abhishek.tyagi@rochester.edu",
+    "phone": "",
+    "url": "https://abhishektyaagi.github.io/",
+    "summary": "",
+    "location": {},
     "profiles": [
       {
         "network": "Twitter",
@@ -24,18 +18,24 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "ARM Inc",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "May 2022",
+      "endDate": "Dec 2022",
+      "summary": "Worked with the Machine Learning and Architecture Team."
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {"name": "Cientifico Latino",
+      "position": "Graduate Student Mentorship Initiative (GSMI) Member",
+      "url": "https://www.cientificolatino.com/",
+      "summary": "Working as a member of the GSMI program to help increase the pool of minority scientists and professionals"},
+    {"name": "Fatima Fellowship",
+      "position": "Mentor",
+      "url": "https://www.fatimafellowship.com/",
+      "summary": "Mentoring students through the Fatima Fellowship program while working on research projects to gain research experience before applying for grad school"}
+  ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
@@ -63,12 +63,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
     }
   ],
   "interests": [],
