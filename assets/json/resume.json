@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "Personal Info": {
     "name": "Abhishek Tyagi",
     "label": "Scientist",
     "image": "",
@@ -29,24 +29,24 @@
       "name": "Samsung Research & Development Institute",
       "position": "Senior Engineer",
       "url": "",
-      "startDate": "July 2019",
-      "endDate": "Dec 2020",
+      "startDate": "Jul'19",
+      "endDate": "Dec'20",
       "summary": "Worked with Device & Systems Group as part of SAIT-India to carried out the design and verifications of Samsung’s Neural Processing Unit (NPU) for handheld devices."
     },
     {
       "name": "Indian Institute of Science",
       "position": "Research Assistant",
       "url": "",
-      "startDate": "July 2017",
-      "endDate": "June 2019",
+      "startDate": "Jul'17",
+      "endDate": "Jun'19",
       "summary": "Worked on the design, implementation and verification of a Software Defined, Hardware Customizable Tensor Core written in Chisel HDL."
     },
     {
       "name": "INRIA",
       "position": "Visiting Research Scholar",
       "url": "",
-      "startDate": "July 2016",
-      "endDate": "August 2016",
+      "startDate": "Jul'16",
+      "endDate": "Aug'16",
       "summary": "Enhanced APOLLO, a dynamic and speculative Polyhedral loop optimizer by incorporating random memory access patterns in the polyhedral optimization model."
     }
   ],
@@ -70,8 +70,8 @@
       "url": "https://www.rochester.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "Jan 2021",
-      "endDate": "May 2026",
+      "startDate": "Jan'21",
+      "endDate": "May'26",
       "score": "",
       "courses": []
     },
@@ -80,8 +80,8 @@
       "url": "https://dtu.ac.in/",
       "area": "Electrical Engineering",
       "studyType": "Bachelors of Technology (B.Tech)",
-      "startDate": "August 2013",
-      "endDate": "May 2017",
+      "startDate": "Aug'13",
+      "endDate": "May'17",
       "score": "",
       "courses": []
     }
