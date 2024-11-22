@@ -78,7 +78,7 @@
       "url": "https://www.cientificolatino.com/",
       "summary": "Working as a member of the GSMI program to help increase the pool of minority scientists and professionals"},
     {"name": "Fatima Fellowship",
-      "position": "Mentor",
+      "position": "Mentor - Fatima Scholarship",
       "url": "https://www.fatimafellowship.com/",
       "summary": "Mentoring students through the Fatima Fellowship program while working on research projects to gain research experience before applying for grad school"},
     {"name": "University of Rochester",
@@ -87,6 +87,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Runner’s Up & People’s Choice Award",
+      "date": "April'15",
+      "awarder": "NASA SpaceApp Challenge",
+      "summary": "Awarded for our prototype, Glove Above, designed to enhance recreational experience of astronauts in space."
+    },
     {
       "title": "Prime Minister Fellowship",
       "date": "Aug'13 to May'17",
