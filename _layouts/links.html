@@ -1,0 +1,74 @@
+---
+# Empty front matter so Jekyll treats this file as a layout
+---
+<!--
+  Layout: links
+  Place this file in your site's _layouts/ folder, then set
+  "layout: links" in the front‑matter of any page that should
+  render a categorized list of links.
+
+  Expected front‑matter structure in the page using this layout:
+
+  ---
+  layout: links
+  title: Useful Links
+  description: Handy resources I often reference.
+  links:
+    - category: "Research Tools"
+      items:
+        - name: "Google Scholar"
+          url: "https://scholar.google.com"
+          description: "Search scholarly literature"
+        - name: "arXiv"
+          url: "https://arxiv.org"
+          description: "Pre‑print repository"
+    - category: "Machine Learning Libraries"
+      items:
+        - name: "PyTorch"
+          url: "https://pytorch.org"
+          description: "Deep‑learning framework"
+  ---
+
+  Any markdown content you write below the front‑matter will appear
+  above the link list.
+-->
+
+{%- assign link_groups = page.links -%}
+
+<div class="container py-4">
+  <!-- Page header -->
+  <header class="mb-4">
+    <h1 class="page-title">{{ page.title | default: "Useful Links" }}</h1>
+    {%- if page.description -%}
+      <p class="lead">{{ page.description }}</p>
+    {%- endif -%}
+  </header>
+
+  <!-- Optional markdown body content -->
+  {%- if content != "" -%}
+    <div class="content mb-5">
+      {{ content }}
+    </div>
+  {%- endif -%}
+
+  <!-- Categorised link list -->
+  {%- if link_groups -%}
+    {%- for group in link_groups -%}
+      <section class="mb-5">
+        <h2 class="h4 fw-semibold">{{ group.category }}</h2>
+        <ul class="list-unstyled ms-3">
+          {%- for item in group.items -%}
+            <li class="mb-2">
+              <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>
+              {%- if item.description -%}
+                — <span class="text-muted">{{ item.description }}</span>
+              {%- endif -%}
+            </li>
+          {%- endfor -%}
+        </ul>
+      </section>
+    {%- endfor -%}
+  {%- else -%}
+    <p>No links have been added yet. Update this page’s front‑matter using the <code>links</code> parameter.</p>
+  {%- endif -%}
+</div>
