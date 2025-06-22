@@ -1,6 +1,9 @@
 ---
 layout: links
 title: Useful Links
+permalink: /links/          # permanent URL slug
+nav: true                   # <-- makes it appear in the navbar
+nav_order: 7 
 description: Handy resources I often reference.
 links:
   - category: "Research Tools"
