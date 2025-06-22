@@ -1,6 +1,6 @@
 ---
 layout: links
-title: about
+title: usefulLinks
 permalink: /
 subtitle: <a href='https://www.cs.rochester.edu/'>Department of Computer Science, University of Rochester</a>.
 
