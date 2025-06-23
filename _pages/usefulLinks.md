@@ -1,8 +1,8 @@
 ---
 layout: links                 # ← tells Jekyll to use your new layout
-title: Useful Links
-description: Handy resources I refer to often
-permalink: /links/            # nice, short URL (optional but common)
+title: resources (Coming Soon)
+description: A list of resources I come across that are useful to me and maybe others pertaining to research
+permalink: /resources/            # nice, short URL (optional but common)
 
 nav: true                     # show in the top-right navbar
 nav_order: 7                  # smaller = farther left; adjust as you like
